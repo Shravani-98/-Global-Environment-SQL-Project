@@ -1,0 +1,41 @@
+policy_id,country_id,policy_name,year_introduced,status,impact_level
+1,1,Water Conservation Policy,2022,Under Review,High
+2,1,Forest Conservation Program,2020,Active,High
+3,2,Renewable Energy Target,2015,Draft,High
+4,2,Clean Air Act,2024,Completed,Low
+5,3,EV Incentive,2016,Completed,High
+6,3,EV Incentive,2024,Active,Low
+7,4,Carbon Tax,2020,Draft,High
+8,4,Water Conservation Policy,2017,Under Review,Low
+9,5,Renewable Energy Target,2019,Draft,High
+10,5,EV Incentive,2021,Completed,Medium
+11,6,Water Conservation Policy,2017,Active,High
+12,6,Carbon Tax,2020,Active,Medium
+13,7,Water Conservation Policy,2018,Active,Medium
+14,7,Water Conservation Policy,2024,Under Review,Medium
+15,8,EV Incentive,2015,Completed,Medium
+16,8,Renewable Energy Target,2022,Completed,High
+17,9,Clean Air Act,2021,Draft,High
+18,9,EV Incentive,2024,Under Review,Low
+19,10,Plastic Ban,2024,Draft,High
+20,10,Carbon Tax,2016,Completed,Low
+21,11,EV Incentive,2021,Draft,High
+22,11,Plastic Ban,2021,Completed,Low
+23,12,Carbon Tax,2016,Completed,Medium
+24,12,Water Conservation Policy,2020,Completed,Low
+25,13,Carbon Tax,2017,Draft,Medium
+26,13,Forest Conservation Program,2022,Under Review,Low
+27,14,Carbon Tax,2015,Completed,High
+28,14,Forest Conservation Program,2016,Completed,Medium
+29,15,Plastic Ban,2015,Under Review,Medium
+30,15,EV Incentive,2016,Draft,High
+31,16,Renewable Energy Target,2023,Under Review,Low
+32,16,Plastic Ban,2017,Completed,Medium
+33,17,Renewable Energy Target,2022,Active,Low
+34,17,Plastic Ban,2021,Under Review,Medium
+35,18,Water Conservation Policy,2022,Active,Medium
+36,18,Renewable Energy Target,2019,Under Review,High
+37,19,Renewable Energy Target,2024,Under Review,Low
+38,19,Plastic Ban,2017,Active,Medium
+39,20,Water Conservation Policy,2020,Under Review,Medium
+40,20,Plastic Ban,2022,Under Review,High

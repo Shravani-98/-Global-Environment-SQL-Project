@@ -1,0 +1,21 @@
+country_id,country_name,continent,region,iso_code,population_2023,area_sq_km,capital_city
+1,India,Asia,Southern Asia,IN,1428627663,3287263,New Delhi
+2,United States,North America,Northern America,US,339996563,9833517,Washington DC
+3,China,Asia,Eastern Asia,CN,1425671352,9596961,Beijing
+4,Brazil,South America,South America,BR,216422446,8515767,Brasília
+5,Germany,Europe,Western Europe,DE,83294633,357022,Berlin
+6,Japan,Asia,Eastern Asia,JP,123294513,377975,Tokyo
+7,South Africa,Africa,Southern Africa,ZA,60414495,1221037,Pretoria
+8,Australia,Oceania,Australia and New Zealand,AU,26439111,7692024,Canberra
+9,Canada,North America,Northern America,CA,38781291,9984670,Ottawa
+10,France,Europe,Western Europe,FR,64756584,551695,Paris
+11,United Kingdom,Europe,Northern Europe,GB,67736802,243610,London
+12,Indonesia,Asia,South-eastern Asia,ID,277534122,1904569,Jakarta
+13,Mexico,North America,Central America,MX,128455567,1964375,Mexico City
+14,Nigeria,Africa,Western Africa,NG,223804632,923768,Abuja
+15,Russia,Europe/Asia,Eastern Europe/Northern Asia,RU,144444359,17098242,Moscow
+16,Italy,Europe,Southern Europe,IT,58870762,301340,Rome
+17,Spain,Europe,Southern Europe,ES,47519628,505992,Madrid
+18,Argentina,South America,South America,AR,45773884,2780400,Buenos Aires
+19,Saudi Arabia,Asia,Western Asia,SA,36947025,2149690,Riyadh
+20,Egypt,Africa,Northern Africa,EG,112716598,1002450,Cairo

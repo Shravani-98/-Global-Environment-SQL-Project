@@ -1,0 +1,61 @@
+area_id,country_id,protected_area_name,area_sq_km,year_established,designation_type
+1,1,India National Park 1,17196.05,1970,UNESCO
+2,1,India Conservation Area 2,32205.56,2016,Marine
+3,1,India Wildlife Reserve 3,36510.77,2022,Regional
+4,2,United States Biosphere Reserve 1,95895.28,1979,Regional
+5,2,United States National Park 2,184976.29,2016,National
+6,2,United States Conservation Area 3,161073.85,1996,National
+7,3,China National Park 1,53480.6,1974,Private-Public
+8,3,China National Park 2,15719.33,2008,Regional
+9,3,China Marine Sanctuary 3,144628.89,1995,Regional
+10,4,Brazil National Park 1,95848.67,2018,Regional
+11,4,Brazil Wildlife Reserve 2,90045.9,1988,Private-Public
+12,4,Brazil Biosphere Reserve 3,60114.25,2008,Regional
+13,5,Germany Conservation Area 1,2404.02,1979,Regional
+14,5,Germany National Park 2,3162.37,1987,Private-Public
+15,5,Germany Wildlife Reserve 3,6791.23,2017,Marine
+16,6,Japan Biosphere Reserve 1,4369.83,1973,Marine
+17,6,Japan Marine Sanctuary 2,6021.25,1990,Marine
+18,6,Japan Wildlife Reserve 3,1449.58,1994,Private-Public
+19,7,South Africa Biosphere Reserve 1,12206.53,1984,Regional
+20,7,South Africa Conservation Area 2,19914.8,1973,Marine
+21,7,South Africa Conservation Area 3,23673.39,2005,Regional
+22,8,Australia Wildlife Reserve 1,64458.87,1986,UNESCO
+23,8,Australia Biosphere Reserve 2,102207.09,1998,National
+24,8,Australia National Park 3,85974.33,1982,UNESCO
+25,9,Canada Conservation Area 1,81536.73,2008,National
+26,9,Canada Conservation Area 2,175718.1,1982,Private-Public
+27,9,Canada Biosphere Reserve 3,51154.6,1983,UNESCO
+28,10,France Wildlife Reserve 1,10583.37,1970,Regional
+29,10,France Marine Sanctuary 2,10636.39,1977,Regional
+30,10,France Wildlife Reserve 3,7843.39,2015,Marine
+31,11,United Kingdom Biosphere Reserve 1,4479.36,2005,UNESCO
+32,11,United Kingdom Biosphere Reserve 2,2005.54,2004,UNESCO
+33,11,United Kingdom Marine Sanctuary 3,1454.27,2002,Marine
+34,12,Indonesia Marine Sanctuary 1,5472.89,2016,UNESCO
+35,12,Indonesia Biosphere Reserve 2,34991.27,1993,Marine
+36,12,Indonesia Wildlife Reserve 3,3558.87,1984,National
+37,13,Mexico Conservation Area 1,11697.28,2007,Marine
+38,13,Mexico Biosphere Reserve 2,12981.87,1982,Regional
+39,13,Mexico Marine Sanctuary 3,16141.18,1985,Private-Public
+40,14,Nigeria Biosphere Reserve 1,12413.18,2013,UNESCO
+41,14,Nigeria Marine Sanctuary 2,14321.96,2001,Marine
+42,14,Nigeria Biosphere Reserve 3,3876.54,2020,Regional
+43,15,Russia Marine Sanctuary 1,62566.09,2004,Regional
+44,15,Russia National Park 2,314968.23,2004,Private-Public
+45,15,Russia National Park 3,28086.45,1974,National
+46,16,Italy Wildlife Reserve 1,2662.48,2010,National
+47,16,Italy Wildlife Reserve 2,4350.21,1970,Private-Public
+48,16,Italy Conservation Area 3,2912.21,1973,Private-Public
+49,17,Spain Marine Sanctuary 1,9281.05,2012,National
+50,17,Spain Marine Sanctuary 2,569.56,2005,National
+51,17,Spain Biosphere Reserve 3,666.79,2016,Private-Public
+52,18,Argentina Conservation Area 1,54418.29,1971,Marine
+53,18,Argentina National Park 2,45368.3,1981,National
+54,18,Argentina Wildlife Reserve 3,30482.42,1985,Private-Public
+55,19,Saudi Arabia Biosphere Reserve 1,23652.32,2022,UNESCO
+56,19,Saudi Arabia Biosphere Reserve 2,34618.16,1975,Marine
+57,19,Saudi Arabia Wildlife Reserve 3,20897.04,1985,UNESCO
+58,20,Egypt National Park 1,14031.08,1975,National
+59,20,Egypt Conservation Area 2,8721.6,1994,Marine
+60,20,Egypt Wildlife Reserve 3,2071.25,1970,National
